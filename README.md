@@ -62,7 +62,7 @@ This project focuses on analyzing HR employee data using Excel tools and visuali
 # Dashboard Preview
 
 ## Main Dashboard
-'Screenshot 2026-05-11 010804.png'
+![Dashboard]('Screenshot 2026-05-11 010804.png')
 
 
 ---
